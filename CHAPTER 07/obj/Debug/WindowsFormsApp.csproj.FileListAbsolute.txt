@@ -1,0 +1,20 @@
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\bin\Debug\WindowsFormsApp.exe.config
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\bin\Debug\WindowsFormsApp.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\bin\Debug\WindowsFormsApp.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\obj\Debug\WindowsFormsApp.Form1.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\obj\Debug\WindowsFormsApp.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 07\obj\Debug\WindowsFormsApp.pdb
