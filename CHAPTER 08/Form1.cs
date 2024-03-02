@@ -18,6 +18,7 @@ namespace WindowsFormsApp
             InitializeComponent();
         }
 
+       
         //버튼 v
         private void button1_Click(object sender, EventArgs e)
         {
@@ -137,6 +138,69 @@ namespace WindowsFormsApp
             Process.Start(linkLabel3.Text);
             label7.Text = "네이버 : ";
             label7.Text += linkLabel3.Text;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            textBox3.Text = "Name : " + textBox1.Text + "\r\nPassword : "
+                + textBox2.Text;
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            if(textBox4.Text!= "")
+            {
+                listBox1.Items.Add(textBox4.Text);
+                textBox4.Text = "";
+            }
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedIndex > -1)
+                listBox1.Items.RemoveAt(listBox1.SelectedIndex);
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            if (listBox2.SelectedItem != null)
+            { 
+                comboBox1.Items.Add(listBox2.SelectedItem);
+                listBox2.Items.Remove(listBox2.SelectedItem);
+            }
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedItem != null)
+            {
+                listBox2.Items.Add(comboBox1.SelectedItem);
+                comboBox1.Items.Remove(comboBox1.SelectedItem);
+            }
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            string strTemp = "";
+            foreach(object obj in checkedListBox1.CheckedItems)
+            {
+                strTemp += obj.ToString();
+                strTemp += "";
+            }
+            MessageBox.Show("당신의 취미는 " + strTemp + "입니다.");
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void Form1_FormClosing_1(object sender, FormClosingEventArgs e)
+        {
+            if (MessageBox.Show("Do you want to close?", "Prompt", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                e.Cancel = false;
+            else
+                e.Cancel = true;
         }
     }
 }
