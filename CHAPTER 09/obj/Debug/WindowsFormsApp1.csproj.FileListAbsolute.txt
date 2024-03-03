@@ -1,0 +1,16 @@
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modal.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modeless.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MessageBoxIconApp.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MessageBoxDefaultButtonApp.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.openFileDialog1.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 09\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MultiSelectionApp.resources
