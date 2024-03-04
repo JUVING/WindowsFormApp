@@ -62,3 +62,26 @@ MessageBoxIcon열거형
 
 OpenFileDialog 컴포넌트의 프로퍼티
 ![[Pasted image 20240304044003.png]]
+
+
+# *글꼴 대화상자*
+- 사용자가 글꼴, 글자의 크기, 글자의 생삭, 형태 등을 선택할 수 있는 기능을 제공하는 대화상자이다.
+- FontDialog 컴포넌트를 추가해야 한다.
+
+FontDialog 컴포넌트의 프로퍼티
+![[Pasted image 20240305013325.png]]
+
+
+# *색 대화상자*
+- 사용자가 색상표에서 색을 선택하거나 사용자 색을 생성하여 사용할 수 있는 기능을 제공하는 대화상자이다.
+- ColorDialog 컴포넌트를 폼에 추가해야 한다.
+
+
+# *인쇄 대화상자*
+- 사용자가 인쇄할 프린터와 인쇄 범위, 인쇄 매수 등을 선택할 수 있는 기능을 제공
+
+과정
+1. PrintDialog 컴포넌트 폼에 추가
+2. PrintDialog 컴포넌트의 프로퍼티 중 PrinterSetting와 PrintDocument 프로퍼티를 
+   설정
+3. PrintDocument 클래스를 사용하기 위해서는 System.Drawing.Printing 네이스페이스를 using해야한다.
