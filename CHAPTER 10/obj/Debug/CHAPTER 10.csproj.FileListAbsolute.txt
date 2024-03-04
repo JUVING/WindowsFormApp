@@ -1,0 +1,11 @@
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\bin\Debug\CHAPTER 10.exe.config
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\bin\Debug\CHAPTER 10.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\bin\Debug\CHAPTER 10.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER 10.csproj.AssemblyReference.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.Form1.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.Properties.Resources.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER 10.csproj.GenerateResource.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER 10.csproj.CoreCompileInputs.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER 10.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER 10.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.MenuClickApp.resources
