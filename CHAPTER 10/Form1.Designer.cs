@@ -33,6 +33,7 @@ namespace CHAPTER_10
             this.파일FToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.새파일NToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.열기OToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.닫기CToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.저장SToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.다른이름으로저장AToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
@@ -40,7 +41,6 @@ namespace CHAPTER_10
             this.미리보기VToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripSeparator();
             this.종료XToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.닫기CToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.편집EToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.잘라내기TToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.복사CToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -49,6 +49,14 @@ namespace CHAPTER_10
             this.프로그램정보AToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -95,6 +103,12 @@ namespace CHAPTER_10
             this.열기OToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
             this.열기OToolStripMenuItem.Text = "열기(&O)";
             // 
+            // 닫기CToolStripMenuItem
+            // 
+            this.닫기CToolStripMenuItem.Name = "닫기CToolStripMenuItem";
+            this.닫기CToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
+            this.닫기CToolStripMenuItem.Text = "닫기(&C)";
+            // 
             // 저장SToolStripMenuItem
             // 
             this.저장SToolStripMenuItem.Name = "저장SToolStripMenuItem";
@@ -137,12 +151,6 @@ namespace CHAPTER_10
             this.종료XToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
             this.종료XToolStripMenuItem.Text = "종료(&X)";
             // 
-            // 닫기CToolStripMenuItem
-            // 
-            this.닫기CToolStripMenuItem.Name = "닫기CToolStripMenuItem";
-            this.닫기CToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
-            this.닫기CToolStripMenuItem.Text = "닫기(&C)";
-            // 
             // 편집EToolStripMenuItem
             // 
             this.편집EToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -157,21 +165,21 @@ namespace CHAPTER_10
             // 
             this.잘라내기TToolStripMenuItem.Name = "잘라내기TToolStripMenuItem";
             this.잘라내기TToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
-            this.잘라내기TToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.잘라내기TToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.잘라내기TToolStripMenuItem.Text = "잘라내기(&T)";
             // 
             // 복사CToolStripMenuItem
             // 
             this.복사CToolStripMenuItem.Name = "복사CToolStripMenuItem";
             this.복사CToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
-            this.복사CToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.복사CToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.복사CToolStripMenuItem.Text = "복사(&C)";
             // 
             // 붙여넣기PToolStripMenuItem
             // 
             this.붙여넣기PToolStripMenuItem.Name = "붙여넣기PToolStripMenuItem";
             this.붙여넣기PToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.P)));
-            this.붙여넣기PToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.붙여넣기PToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.붙여넣기PToolStripMenuItem.Text = "붙여넣기(&P)";
             // 
             // 도움말HToolStripMenuItem
@@ -185,7 +193,7 @@ namespace CHAPTER_10
             // 프로그램정보AToolStripMenuItem
             // 
             this.프로그램정보AToolStripMenuItem.Name = "프로그램정보AToolStripMenuItem";
-            this.프로그램정보AToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.프로그램정보AToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.프로그램정보AToolStripMenuItem.Text = "프로그램 정보(&A)";
             // 
             // label1
@@ -207,11 +215,95 @@ namespace CHAPTER_10
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(149, 38);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(100, 12);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "MouseWheelApp";
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(151, 54);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(98, 39);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "MouseWheel";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(293, 38);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(111, 12);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "MousePositionApp";
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(295, 54);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(109, 39);
+            this.button3.TabIndex = 6;
+            this.button3.Text = "MousePosition";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(445, 38);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(97, 12);
+            this.label4.TabIndex = 7;
+            this.label4.Text = "MouseEventApp";
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(447, 54);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(95, 39);
+            this.button4.TabIndex = 8;
+            this.button4.Text = "MouseEvent";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(577, 54);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(83, 39);
+            this.button5.TabIndex = 9;
+            this.button5.Text = "HitTesting";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(577, 37);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(83, 12);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "HitTestingApp";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
@@ -247,6 +339,14 @@ namespace CHAPTER_10
         private System.Windows.Forms.ToolStripMenuItem 프로그램정보AToolStripMenuItem;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Label label5;
     }
 }
 

@@ -22,5 +22,29 @@ namespace CHAPTER_10
             MenuClickApp menuClick = new MenuClickApp();
             menuClick.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MouseWheelApp wheel = new MouseWheelApp();
+            wheel.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MousePositionApp position = new MousePositionApp();
+            position.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MouseEventApp mouseEvent = new MouseEventApp();
+            mouseEvent.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            HitTestingApp hitest = new HitTestingApp();
+            hitest.Show();
+        }
     }
 }
