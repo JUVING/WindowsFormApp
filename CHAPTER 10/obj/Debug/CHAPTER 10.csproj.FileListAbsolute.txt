@@ -12,3 +12,6 @@ C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\D
 C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.MouseWheelApp.resources
 C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.MousePositionApp.resources
 C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.MouseEventApp.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.HitTestingApp.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.FocusApp.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 10\obj\Debug\CHAPTER_10.FocusEventApp.resources

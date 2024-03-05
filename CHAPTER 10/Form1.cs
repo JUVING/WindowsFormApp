@@ -46,5 +46,17 @@ namespace CHAPTER_10
             HitTestingApp hitest = new HitTestingApp();
             hitest.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            FocusApp focus = new FocusApp();
+            focus.Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            FocusEventApp focusEvent = new FocusEventApp();
+            focusEvent.Show();
+        }
     }
 }

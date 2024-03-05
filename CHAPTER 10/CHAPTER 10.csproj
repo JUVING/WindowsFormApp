@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FocusApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FocusApp.Designer.cs">
+      <DependentUpon>FocusApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FocusEventApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FocusEventApp.Designer.cs">
+      <DependentUpon>FocusEventApp.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +96,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FocusApp.resx">
+      <DependentUpon>FocusApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FocusEventApp.resx">
+      <DependentUpon>FocusEventApp.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
