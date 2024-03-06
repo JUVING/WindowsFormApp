@@ -61,6 +61,8 @@ namespace CHAPTER_10
             this.button6 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.button8 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -333,11 +335,32 @@ namespace CHAPTER_10
             this.label7.TabIndex = 14;
             this.label7.Text = "FocusEventApp";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(295, 115);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(80, 12);
+            this.label8.TabIndex = 15;
+            this.label8.Text = "KeyEventApp";
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(295, 131);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(109, 41);
+            this.button8.TabIndex = 16;
+            this.button8.Text = "KeyEvent";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(721, 450);
+            this.Controls.Add(this.button8);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);
@@ -397,6 +420,8 @@ namespace CHAPTER_10
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Button button8;
     }
 }
 
