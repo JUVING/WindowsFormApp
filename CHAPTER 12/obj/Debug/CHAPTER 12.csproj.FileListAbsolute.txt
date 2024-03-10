@@ -1,0 +1,14 @@
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\bin\Debug\CHAPTER 12.exe.config
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\bin\Debug\CHAPTER 12.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\bin\Debug\CHAPTER 12.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER 12.csproj.AssemblyReference.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER_12.Form1.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER_12.PaintEventApp.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER_12.Properties.Resources.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER 12.csproj.GenerateResource.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER 12.csproj.CoreCompileInputs.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER 12.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER 12.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER_12.CreateGraphicsApp.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER_12.FromImageApp.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\WindowsFormsApp\CHAPTER 12\obj\Debug\CHAPTER_12.DrawingPenApp.resources
